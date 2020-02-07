@@ -1,4 +1,3 @@
- #file backend/server/apps/ml/income_classifier/random_forest.py
 import joblib
 import pandas as pd
 

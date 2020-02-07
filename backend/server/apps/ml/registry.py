@@ -1,4 +1,3 @@
-# file backend/server/apps/ml/registry.py
 from apps.endpoints.models import Endpoint
 from apps.endpoints.models import MLAlgorithm
 from apps.endpoints.models import MLAlgorithmStatus
